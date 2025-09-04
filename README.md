@@ -2,7 +2,7 @@
 
 If you find our work useful please cite:
 ```
-@misc{peng2025introducing,
+@misc{yang2025introducing,
     title={Introducing Unbiased Depth into 2D Gaussian Splatting for High-accuracy Surface Reconstruction},
     author={Yixin Yang and Yang Zhou and Hui Huang},
     year={2025},
